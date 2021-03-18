@@ -9,13 +9,15 @@
 	shoes = /obj/item/clothing/shoes/combat
 	gloves =  /obj/item/clothing/gloves/combat
 	back = /obj/item/storage/backpack/fireproof
-	ears = /obj/item/radio/headset/syndicate/alt
+	ears = /obj/item/radio/headset/syndicate/alt/assault
 	l_pocket = /obj/item/modular_computer/tablet/nukeops
-	id = /obj/item/card/id/syndicate/nuke_leader
+	id = /obj/item/card/id/advanced/chameleon
 	suit = /obj/item/clothing/suit/space/hardsuit/syndi
 	suit_store = /obj/item/gun/ballistic/automatic/pistol/aps
 	r_pocket = /obj/item/ammo_box/magazine/m9mm_aps
 	belt = /obj/item/storage/belt/utility/syndicate
+
+	id_trim = /datum/id_trim/chameleon/operative
 
 	var/command_radio = FALSE
 	var/cqc = FALSE
